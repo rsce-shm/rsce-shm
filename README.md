@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Roscoe Shum</h1>
 <h3 align="center">A passionate full stack developer from Canada 🍁</h3>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m currently working on: **my Portfolio!**
 
-- 🌱 I’m currently learning **Typescript!**
+- 🌱 I’m currently learning: **Typescript, Bootstrap**
 
-- 💬 Ask me about **react, axios, APIs**
+- 💬 Ask me about: **react, axios, APIs**
 
-- 📫 How to reach me **shum.roscoe@gmail.com**
+- 📫 How to reach me: **shum.roscoe@gmail.com**
 
-- ⚡ Fun fact **I love creativity!**
+- ⚡ Fun fact: **I love creativity!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
