@@ -7,7 +7,7 @@
 
 - 💬 Ask me about: **react, axios, APIs**
 
-- 📫 How to reach me: **shum.roscoe@gmail.com**
+- 📫 How to reach me: **shum.roscoe@gmail.com** | **(647)-968-1882** 
 
 - ⚡ Fun fact: **I love creativity!**
 
